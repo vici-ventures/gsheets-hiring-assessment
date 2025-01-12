@@ -1,5 +1,4 @@
 <aside>
-<img src="/icons/arrow-right-line_red.svg" alt="/icons/arrow-right-line_red.svg" width="40px" />
 
 01/12/25 - Hiring Assessment for *Vici Ventures*
 
@@ -10,8 +9,8 @@
 # Interview Assessment Overview
 
 Create a Portfolio Watcher application that tracks cryptocurrency token metrics using contract addresses.
+<img width="1265" alt="image" src="https://github.com/user-attachments/assets/4eb172c7-54b6-4238-8214-1a491c4c8e18" />
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/174747b9-40a7-4879-98a1-549199d0e33e/22d596d9-b23a-436d-a6c2-3a327c819016/image.png)
 
 ## Project Requirements
 
