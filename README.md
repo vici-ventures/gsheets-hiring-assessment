@@ -1,14 +1,12 @@
-<aside>
+# Interview Assessment Overview
+
+Create a Portfolio Watcher application that tracks cryptocurrency token metrics using contract addresses.
 
 01/12/25 - Hiring Assessment for *Vici Ventures*
 
 1-3k Monthly
 
-</aside>
 
-# Interview Assessment Overview
-
-Create a Portfolio Watcher application that tracks cryptocurrency token metrics using contract addresses.
 <img width="1265" alt="image" src="https://github.com/user-attachments/assets/4eb172c7-54b6-4238-8214-1a491c4c8e18" />
 
 
